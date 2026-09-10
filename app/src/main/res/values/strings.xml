@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Free Fire AI Control</string>
+    <string name="accessibility_service_description">Free Fire AI Assistant Control Service</string>
+</resources>
